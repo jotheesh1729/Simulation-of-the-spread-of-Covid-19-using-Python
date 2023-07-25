@@ -1,1 +1,1 @@
-# Simulation-of-the-spread-of-Covid-19-using-Python-S
+# Simulation-of-the-spread-of-Covid-19-using-Python-S<img width="1119" alt="Screenshot 2023-07-22 at 10 40 00 AM" src="https://github.com/jotheesh1729/Simulation-of-the-spread-of-Covid-19-using-Python-S/assets/66893484/888ec958-c904-4bc4-b0f9-a641e599378b">
